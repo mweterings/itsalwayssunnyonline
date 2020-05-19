@@ -1,0 +1,19 @@
+/* RESET */
+@import 'sanitize.css';
+
+/* BASE */
+@import 'tailwindcss/base';
+@import './base/';
+
+/* COMPONENTS */
+@import 'tailwindcss/components';
+@import '../../components/atoms/index.css';
+/* @import '../../components/molecules/index.css'; */
+/* @import '../../components/organisms/index.css'; */
+
+/* PATTERNS */
+@import './patterns/';
+
+/* UTILITIES */
+@import 'tailwindcss/utilities.css';
+/* @import './utilities'; */

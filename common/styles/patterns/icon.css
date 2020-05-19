@@ -1,0 +1,14 @@
+.p-icon {
+  svg {
+    @apply 
+      u-inline-block
+      u-w-5
+      u-h-auto;
+  }
+}
+
+.p-icon--md {
+  svg {
+    @apply u-w-6;
+  }
+}

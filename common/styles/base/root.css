@@ -1,0 +1,12 @@
+html {
+  @apply u-font-standard;
+
+  font-size: 62.5%;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  @apply 
+    u-text-base
+    u-text-black
+}

@@ -1,0 +1,7 @@
+.a-logo {
+  @apply
+    u-flex
+    u-justify-center
+    u-items-center
+    u-h-screen;
+}

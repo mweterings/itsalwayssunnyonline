@@ -1,0 +1,43 @@
+.p-text-h1 {
+  @apply
+    u-text-xl
+    u-font-medium;
+
+  @screen sm {
+    @apply u-text-2xl;
+  }
+}
+
+.p-text-h2 {
+  @apply
+    u-text-xl
+    u-font-medium;
+}
+
+.p-text-h3 {
+  @apply
+    u-text-lg
+    u-font-medium;
+}
+
+.p-text-body {
+  @apply
+    u-text-base
+    u-text-grey-light;
+}
+
+.p-text-intro {
+  @apply
+    u-text-lg
+    u-text-grey-light;
+
+  @screen sm {
+    @apply u-text-xl;
+  }
+}
+
+.p-text-subtitle {
+  @apply 
+    u-text-sm
+    u-font-secondary;
+}

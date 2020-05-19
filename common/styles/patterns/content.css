@@ -1,0 +1,5 @@
+.p-content {
+  @apply u-mx-auto;
+
+  max-width: 1440px;
+}
