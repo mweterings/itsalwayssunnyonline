@@ -5,7 +5,7 @@
       width="757"
       height="1143"
       viewBox="0 0 757 1143"
-      class="u-max-w-xl u-max-h-full"
+      class="u-max-w-lg u-max-h-full"
     >
       <defs />
       <path

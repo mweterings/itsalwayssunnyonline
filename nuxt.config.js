@@ -36,7 +36,7 @@ export default {
   /*
    ** Plugins to load before mounting the App
    */
-  plugins: [{ src: '@/plugins/sunrise-sunset.js', ssr: false }],
+  plugins: [{ src: '@/plugins/kinesis.js', ssr: false }],
   /*
    ** Nuxt.js dev-modules
    */
