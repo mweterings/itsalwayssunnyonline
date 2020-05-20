@@ -1,6 +1,6 @@
 <template>
   <div>
-    <logo class="a-logo" />
+    <logo class="a-logo u-p-12" />
   </div>
 </template>
 

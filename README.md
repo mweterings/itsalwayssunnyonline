@@ -2,6 +2,8 @@
 
 > It's always sunny online ☀️
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/378b3103-ae37-47e5-9f0a-f13eb41f7c5a/deploy-status)](https://app.netlify.com/sites/itsalwayssunnyonline/deploys)
+
 ## Build Setup
 
 ```bash
@@ -18,5 +20,3 @@ $ yarn start
 # generate static project
 $ yarn generate
 ```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
